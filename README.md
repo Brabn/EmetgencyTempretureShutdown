@@ -14,10 +14,10 @@ Control interface consist of 32 character LCD screen (16x2) and 6 buttons:
 
 ![General view on system components](https://github.com/Brabn/EmetgencyTempretureShutdown/blob/main/Wiring_diagram/EmetgencyTempretureShutdown.Interface.jpg)
 
-	`t=27 C`  	– current temperature sensor readingsin Celsius 
-	`max 200 C` 	– temperature limit for system operation. Can be changed by pressing `up` and `down` buttons
-	`Auto` 		– Automatic or manual mode. In automatic mode relay automatically turns off when the target temperature is reached. In manual mode (`Manual` displayed on the screen), the relay is turned on and off manually by pressing the `left` (on) or `right` (off) buttons. Automatic mode is turned on and off by pressing the `select` button. When manually turning on/off the relay, the mode also switches to `Manual`
-	`ON` 		– current relay state (`ON` or `OFF`)
+`t=27 C`  	– current temperature sensor readingsin Celsius 
+`max 200 C` 	– temperature limit for system operation. Can be changed by pressing `up` and `down` buttons
+`Auto` 		– Automatic or manual mode. In automatic mode relay automatically turns off when the target temperature is reached. In manual mode (`Manual` displayed on the screen), the relay is turned on and off manually by pressing the `left` (on) or `right` (off) buttons. Automatic mode is turned on and off by pressing the `select` button. When manually turning on/off the relay, the mode also switches to `Manual`
+`ON` 		– current relay state (`ON` or `OFF`)
 
 ## System parameters:
 * Main controller		– Arduino Uno 
