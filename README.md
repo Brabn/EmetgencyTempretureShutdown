@@ -45,7 +45,7 @@ Control interface consist of 32 character LCD screen (16x2) and 6 buttons:
 
 ## Wiring diagram
 
-![Emetgency Tempreture Shutdown wiring diagram](https://github.com/Brabn/EmetgencyTempretureShutdown/blob/main/Wiring_diagram/EmetgencyTempretureShutdown.Wiring_diagtam.jpg)
+![Emetgency Tempreture Shutdown wiring diagram](https://github.com/Brabn/EmetgencyTempretureShutdown/blob/main/Wiring_diagram/EmetgencyTempretureShutdown.Wiring_diagram.jpg)
 
 ## Further development of the system
 - [ ] Increasing the number of temperature sensors and/or relays
