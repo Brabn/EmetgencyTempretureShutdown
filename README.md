@@ -1,5 +1,5 @@
 # EmetgencyTempretureShutdown
-Load shedding system based on wireless infrared temperature sensor readings
+[Load shedding system](https://techi-news.com/Projects/Electrical-load-shedding-system-with-temperature-sensor) based on wireless infrared temperature sensor readings
 
 The MLX90614 infrared non-contact thermometer measures the temperature of an object in the range from -70 to +380°C with an accuracy of 0.5°C and transmits the data to the controller
 
